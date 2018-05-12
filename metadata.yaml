@@ -1,0 +1,32 @@
+_repo: Mrs.-Halliburton-s-Troubles_34587
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wood, Henry, Mrs.
+    aliases:
+    - Wood, Ellen Price
+    - Wood, Mrs. Henry
+    - Ludlow, Johnny
+    - Price, Ellen
+    birthdate: 1814
+    deathdate: 1887
+    gutenberg_agent_id: '1177'
+    url: http://www.gutenberg.org/2009/agents/1177
+    wikipedia: http://en.wikipedia.org/wiki/Ellen_Wood_%28author%29
+description: ''
+gutenberg_issued: '2010-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34587'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: Mrs. Halliburton's Troubles
+url: http://www.gutenberg.org/ebooks/34587
